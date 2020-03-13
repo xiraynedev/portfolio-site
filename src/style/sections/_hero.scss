@@ -32,14 +32,14 @@
     text-align: left;
 
     @include respond(tab-land) {
-      font-size: 4rem;
+      font-size: 3rem;
     }
     @include respond(tab-port) {
-      font-size: 3.6rem;
+      font-size: 3rem;
       text-align: center;
     }
     @include respond(phone) {
-      font-size: 3.5rem;
+      font-size: 3rem;
       line-height: 1.5;
     }
     @include respond(phone-xs) {
