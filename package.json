@@ -44,6 +44,7 @@
     "postcss": "^8.3.1",
     "serialize-javascript": "^5.0.1",
     "tilt.js": "^1.2.1",
-    "websocket-extensions": "^0.1.4"
+    "websocket-extensions": "^0.1.4",
+    "trim-newlines": "^3.0.1"
   }
 }
